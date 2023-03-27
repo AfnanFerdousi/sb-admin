@@ -1,0 +1,83 @@
+[
+    {
+        "AttributeName": "SubjectCode",
+        "AttributeValue": "54646y46"
+    },
+    {
+        "AttributeName": "Edition",
+        "AttributeValue": "5"
+    },
+    {
+        "AttributeName": "Class",
+        "AttributeValue": "7"
+    },
+    {
+        "AttributeName": "Group",
+        "AttributeValue": "science"
+    },
+    {
+        "AttributeName": "Department",
+        "AttributeValue": "science"
+    },
+    {
+        "AttributeName": "PublishedDate",
+        "AttributeValue": "22/10/2022"
+    },
+    {
+        "AttributeName": "Exam",
+        "AttributeValue": "science"
+    },
+    {
+        "AttributeName": "ShortDesc",
+        "AttributeValue": "sciencesciencesciencescience"
+    },
+    {
+        "AttributeName": "Type_GUIDE_BOOK/MAIN_BOOK",
+        "AttributeValue": "Main Bokk"
+    }
+]
+
+
+
+[
+    {
+        "AttributeName": "SubjectCode",
+        "AttributeValue": "",
+        "_id": "633a800fe8dd07ddb541a9fd"
+    },
+    {
+        "AttributeName": "Edition",
+        "AttributeValue": "",
+        "_id": "633a800fe8dd07ddb541a9fe"
+    },
+    {
+        "AttributeName": "Class",
+        "AttributeValue": "9-10",
+        "_id": "633a800fe8dd07ddb541a9ff"
+    },
+    {
+        "AttributeName": "Group",
+        "AttributeValue": "Science ",
+        "_id": "633a800fe8dd07ddb541aa00"
+    },
+    {
+        "AttributeName": "Department",
+        "AttributeValue": "",
+        "_id": "633a800fe8dd07ddb541aa01"
+    },
+    {
+        "AttributeName": "PublishedDate",
+        "AttributeValue": "03/10/2022",
+        "_id": "633a800fe8dd07ddb541aa02"
+    },
+    {
+        "AttributeName": "Exam",
+        "AttributeValue": "2023",
+        "_id": "633a800fe8dd07ddb541aa03"
+    },
+    {
+        "AttributeName": "Type_GUIDE_BOOK/MAIN_BOOK",
+        "AttributeValue": "Guide Book",
+        "_id": "633a800fe8dd07ddb541aa04"
+    }
+]

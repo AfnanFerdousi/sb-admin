@@ -1,0 +1,6 @@
+export const success_green = '#2E7D32'
+export const bg_gray = '#333F50'
+export const primary_orange = '#F26133'
+export const info_blue = '#0288D1'
+export const error_red = '#FF3D57'
+export const gray = '#8E98AA'
